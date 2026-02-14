@@ -1,2 +1,7 @@
 # HID_Parser
-Create easy library to parse HID packets from USB 
+Simple library to parse HID packets from USB
+
+## Introduction
+
+## Finding USB devices (Windows)
+
